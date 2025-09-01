@@ -7,7 +7,7 @@
 ![Sysmon](https://img.shields.io/badge/-Sysmon_Telemetry-808080?&style=for-the-badge&logo=windows&logoColor=white)
 
 
-
+## [Download the full report (PDF)](https://drive.google.com/file/d/12dZ2GwKGO2HcYUgv-3_CFxVs1UMYGqyu/view?usp=sharing)
 
 ## 🎯 Objectives
 
