@@ -9,7 +9,7 @@
 
 ## [Download the full report (PDF)](https://drive.google.com/file/d/12dZ2GwKGO2HcYUgv-3_CFxVs1UMYGqyu/view?usp=sharing)
 
-## 🎯 Objectives
+## Objectives
 
 The main goals of the project are:
 
@@ -20,7 +20,7 @@ The main goals of the project are:
 5. Escalate incidents automatically into **TheHive** for case management.
 
 
-## 🛠️ Methodology
+## Methodology
 
 ### 1. Endpoint Telemetry
 - Install **Sysmon** on Windows machines to capture:
@@ -46,7 +46,7 @@ The main goals of the project are:
 - Notify SOC analysts via email.
 
 
-## 🔍 Testing
+## Testing
 
 - Simulated **Mimikatz execution** on Windows endpoint
 - Verified detection in **Wazuh Discover**
@@ -55,7 +55,7 @@ The main goals of the project are:
 - **VirusTotal enrichment** executed
 - Automatic **case creation in TheHive**
 
-## 📊 Architecture Overview
+## Architecture Overview
 
 ```mermaid
 flowchart TD
